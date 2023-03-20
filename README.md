@@ -45,7 +45,14 @@
 <p>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40"/></a>
 </p>
-  
+
+### 💼 &nbsp; My projects
+<p>
+   <a href="https://gleeful-peony-54e730.netlify.app/" target="_blank" rel="noreferrer">Weather Forecast</a>
+</p>
+<p>
+<a href="https://astounding-lamington-66ff6d.netlify.app/" target="_blank" rel="noreferrer">Todo List</a>
+</p>
 
 ### 📫 How to reach me: [My Telegram](https://t.me/Ig0r_Shevchenk0)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSky3309&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
