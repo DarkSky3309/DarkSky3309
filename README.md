@@ -47,10 +47,9 @@
 </p>
 
 ### 💼 &nbsp; My projects
-<p>
+
    <a href="https://gleeful-peony-54e730.netlify.app/" target="_blank" rel="noreferrer">Weather Forecast</a>
-   <a href="https://astounding-lamington-66ff6d.netlify.app/" target="_blank" rel="noreferrer">Todo List</a>
-</p>
+  <a href="https://astounding-lamington-66ff6d.netlify.app/" target="_blank" rel="noreferrer">Todo List</a>
 
 ### 📫 How to reach me: [My Telegram](https://t.me/Ig0r_Shevchenk0)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSky3309&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
