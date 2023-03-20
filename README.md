@@ -48,6 +48,6 @@
   
 
 ### 📫 How to reach me: [My Telegram](https://t.me/Ig0r_Shevchenk0)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StasKobles&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSky3309&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     <br/>
 <a href='https://www.codewars.com/users/DarkSky3309' target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/DarkSky3309/badges/large" title="codewars"  alt="Codewars"/><a/></p>
