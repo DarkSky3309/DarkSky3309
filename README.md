@@ -49,9 +49,7 @@
 ### 💼 &nbsp; My projects
 <p>
    <a href="https://gleeful-peony-54e730.netlify.app/" target="_blank" rel="noreferrer">Weather Forecast</a>
-</p>
-<p>
-<a href="https://astounding-lamington-66ff6d.netlify.app/" target="_blank" rel="noreferrer">Todo List</a>
+   <a href="https://astounding-lamington-66ff6d.netlify.app/" target="_blank" rel="noreferrer">Todo List</a>
 </p>
 
 ### 📫 How to reach me: [My Telegram](https://t.me/Ig0r_Shevchenk0)
