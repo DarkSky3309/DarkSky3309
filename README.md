@@ -55,6 +55,9 @@
    <li>
     <a href="https://astounding-lamington-66ff6d.netlify.app/" target="_blank" rel="noreferrer">Todo List</a>
   </li>
+  <li>
+    <a href="https://celebrated-choux-96fead.netlify.app" target="_blank" ref="noreferrer">Instant Messaging</a>
+  </li> 
 </ul>
 
 ### 📫 How to reach me: [My Telegram](https://t.me/Ig0r_Shevchenk0)
