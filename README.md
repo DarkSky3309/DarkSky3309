@@ -12,7 +12,7 @@
   <a href='https://www.javascript.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
   <a href='https://reactjs.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/><a/>&nbsp;
   <a href='https://nodejs.org/en/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/><a/>&nbsp;
-  <a href='https://nextjs.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/tree/master/icons/nextjs" title="NextJS" alt="NextJS" width="40" height="40"/><a/>&nbsp;
+  <a href='https://nextjs.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/><a/>&nbsp;
 </p>
 
 ### 👨‍💻 &nbsp;State Managers
