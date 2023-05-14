@@ -1,10 +1,10 @@
 <base target="_blank">
 <h1 align="center">Hi there, I'm <a href="https://github.com/DarkSky3309" target="_blank">Igor</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior React developer. Currently in Urkrain UA</h3>
+<h3 align="center">Front-end React developer. Currently in Urkrain UA</h3>
 
 ---
-## 📄 My current <a href='https://drive.google.com/file/d/1bOMLM_sI5L5th0KwOhqrqj-uHjJJGF9y/view?usp=sharing'>CV<a/>&nbsp;
+## 📄 My current <a href='https://drive.google.com/file/d/16m7DHSW6rwV40DMw784xq_bcLxpGoxfU/view?usp=sharing'>CV<a/>&nbsp;
 
 ### 🛠 &nbsp;Languages and Tools
 <p>
@@ -12,6 +12,7 @@
   <a href='https://www.javascript.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
   <a href='https://reactjs.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/><a/>&nbsp;
   <a href='https://nodejs.org/en/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/><a/>&nbsp;
+  <a href='https://nextjs.org/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/tree/master/icons/nextjs" title="NextJS" alt="NextJS" width="40" height="40"/><a/>&nbsp;
 </p>
 
 ### 👨‍💻 &nbsp;State Managers
@@ -45,6 +46,8 @@
 ### 💾 &nbsp; Databases and Development platforms
 <p>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40"/></a>
+  <a href='https://nestjs.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/><a/>&nbsp;
+    <a href='https://nestjs.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/><a/>&nbsp;
 </p>
 
 ### 💼 &nbsp; My projects
