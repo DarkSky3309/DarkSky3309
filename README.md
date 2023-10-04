@@ -4,7 +4,6 @@
 <h3 align="center">Front-end React developer. Currently in Urkrain UA</h3>
 
 ---
-## 📄 My current <a href='https://drive.google.com/file/d/16m7DHSW6rwV40DMw784xq_bcLxpGoxfU/view?usp=sharing'>CV<a/>&nbsp;
 
 ### 🛠 &nbsp;Languages and Tools
 <p>
@@ -50,18 +49,18 @@
     <a href='https://nestjs.com/' target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/><a/>&nbsp;
 </p>
 
-### 💼 &nbsp; My projects
-<ul style={list-style: none}>
-  <li>
-    <a href="https://gleeful-peony-54e730.netlify.app/" target="_blank" rel="noreferrer">Weather Forecast</a>
-  </li>
-   <li>
-    <a href="https://astounding-lamington-66ff6d.netlify.app/" target="_blank" rel="noreferrer">Todo List</a>
-  </li>
-  <li>
-    <a href="https://celebrated-choux-96fead.netlify.app" target="_blank" ref="noreferrer">Instant Messaging</a>
-  </li> 
-</ul>
+<!-- ### 💼 &nbsp; My projects -->
+<!--  <ul style={list-style: none}> -->
+<!--   <li> -->
+<!--     <a href="https://gleeful-peony-54e730.netlify.app/" target="_blank" rel="noreferrer">Weather Forecast</a> -->
+<!--   </li> -->
+<!--    <li> -->
+<!--     <a href="https://astounding-lamington-66ff6d.netlify.app/" target="_blank" rel="noreferrer">Todo List</a> -->
+<!--   </li> -->
+<!--   <li> -->
+<!--     <a href="https://celebrated-choux-96fead.netlify.app" target="_blank" ref="noreferrer">Instant Messaging</a> -->
+<!--   </li>  -->
+<!-- </ul> -->
 
 ### 📫 How to reach me: [My Telegram](https://t.me/Ig0r_Shevchenk0)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSky3309&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
